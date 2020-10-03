@@ -18,7 +18,9 @@ Copy the team-hash-login
 
 ![Write You Name](img/xls-write-your-name.png)
 
-Paste the team-hash-login to a new browser window.
+Paste the team-hash-login to a new browser window. 
+
+Choose the Accept Terms & Login. 
 
 ![Event Engine Terms and Conditions](img/event-engine-terms.png)
 
