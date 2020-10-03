@@ -54,7 +54,7 @@ In the AWS Console search bar, type `SageMaker` and select `Amazon SageMaker` to
 
 ![SageMaker Console](img/setup_aws_console.png). 
 
-Select `notebook instance`.
+Select `Notebook instances`.
 
 ![SageMaker Console](img/aws-sagemaker-dashboard.png).
 
