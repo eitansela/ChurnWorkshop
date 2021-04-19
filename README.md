@@ -12,17 +12,27 @@ If you do not logout of existing AWS Consoles, things will not work properly.
 _Please logout of all AWS Console sessions in all browser tabs._
 
 ## 1. Login to the Workshop Portal (aka Event Engine). 
-Choose an empty cell, wait for 5 seconds to see no one took it, and write your name.
+Open https://dashboard.eventengine.run/
 
-Copy the team-hash-login
-
-![Write You Name](img/xls-write-your-name.png)
-
-Paste the team-hash-login to a new browser window. 
+Using the hash code you got by email, paste the event-hash-login that will be shared with you in the browser window. 
 
 Choose the Accept Terms & Login. 
 
 ![Event Engine Terms and Conditions](img/event-engine-terms.png)
+
+Choose OTP.
+
+![Choose OTP](img/choose_top.png)
+
+Write the Email that the passcode will be sent to, and choose Send passcode.
+
+![write your email](img/one_time_email_passcode.png)
+
+Copy the One-time email passcode from your inbox and paste it here.
+
+![Paste One time code](img/paste_time_email_passcode.png)
+
+Set your name clicking on Set Team Name, and then choose AWS Console.
 
 ![Event Engine Dashboard](img/event-engine-dashboard.png)
 
